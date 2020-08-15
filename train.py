@@ -3,6 +3,7 @@ Trains a SNAIL generative model on CIFAR-10 or Tiny ImageNet data.
 Supports using multiple GPUs and machines (the latter using MPI).
 """
 
+# check
 
 def main(args):
   import os
